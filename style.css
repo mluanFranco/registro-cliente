@@ -1,0 +1,36 @@
+/* Content centralization */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Form */
+main {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    width: 280px;
+}
+
+/* Inputs e Buttons */
+input, button {
+    width: 250px;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button style */
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

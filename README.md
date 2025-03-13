@@ -14,3 +14,7 @@ The goal is to create a **Login and Signup** page where users can register and a
 ✅ User registration
 ✅ Login Page
 ✅ Responsive Design
+
+## Take a Look 👀
+![Login Page](images/login_page.png)
+![Sign Up Page](images/signup_page.png)
