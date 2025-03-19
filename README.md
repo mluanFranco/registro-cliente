@@ -1,20 +1,20 @@
-# Client Register Page
+# Página de Registro de Cliente  
 
-## 📌 About the Project
-This project aims to practice web development skills using **HTML, CSS, and JavaScript**.
+## 📌 Sobre o Projeto  
+Este projeto tem como objetivo praticar habilidades de desenvolvimento web usando **HTML, CSS e JavaScript**.  
 
-The goal is to create a **Login and Signup** page where users can register and acess a specific platform and its features.
+O objetivo é criar uma página de **Login e Cadastro**, onde os usuários podem se registrar e acessar uma plataforma específica e seus recursos.  
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Tecnologias Utilizadas  
+- HTML  
+- CSS  
+- JavaScript  
 
-## 🚀 Features
-✅ User registration
-✅ Login Page
-✅ Responsive Design
+## 🚀 Funcionalidades  
+✅ Registro de usuários
+✅ Página de Login
+✅ Design Responsivo  
 
-## Take a Look 👀
-![Login Page](images/login_page.png)
-![Sign Up Page](images/signup_page.png)
+## Dê uma Olhada 👀  
+![Página de Login](images/login.png)  
+![Página de Cadastro](images/cadastro.png)  
