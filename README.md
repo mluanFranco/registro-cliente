@@ -1,4 +1,4 @@
-# Página de Registro de Cliente  
+# Página de Login e Cadastro de Usuários  
 
 ## 📌 Sobre o Projeto  
 Este projeto tem como objetivo praticar habilidades de desenvolvimento web usando **HTML, CSS e JavaScript**.  
